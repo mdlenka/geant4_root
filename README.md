@@ -5,4 +5,4 @@
 ## Standard requirements
 `sudo apt install zlib1g zlib1g-dev libexpat1 libexpat1-dev`
 ## Others
-` sudo apt install libxmu-dev libxmu-headers libx11-xcb1 libx11-xcb-dev  libxkbcommon-dev libxkbcommon-x11-dev`
+`sudo apt install libxmu-dev libxmu-headers libx11-xcb1 libx11-xcb-dev  libxkbcommon-dev libxkbcommon-x11-dev`
